@@ -1,0 +1,10 @@
+icone effacer >Source: intrigue , License: GPLv2  http://openiconlibrary.sourceforge.net/sources.html
+icone window-new >Source: crystal , License: LGPL-2.1 http://openiconlibrary.sourceforge.net/sources.html
+tab-new.png > Source: crystal , License: LGPL-2.1 http://openiconlibrary.sourceforge.net/sources.html
+user-deelete2.png user-new-3 document-open-folder > Source: oxygen , License: CC-BY-SA 3.0 or LGPL http://openiconlibrary.sourceforge.net/sources.html
+user-group-new db-remove2 db-comit db-add Source: crystal , License: LGPL-2.1 
+list-add list-remove document-export Source: intrigue , License: GPLv2 
+edit-clear2> Source: gnome , License: GPLv2 
+document-openX Source: nuovext2 , License: LGPL-2.1 
+document-newX Source: nuovext2 , License: LGPL-2.1 
+edit.png Source: crystal , License: LGPL-2.1 
